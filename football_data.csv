@@ -1,0 +1,661 @@
+,date,home_team,score,away_team
+0,14-04-2024,Athletico PR,4 - 0,Cuiabá
+1,17-04-2024,Grêmio,2 - 0,Athletico PR
+2,21-04-2024,Athletico PR,1 - 0,Internacional RS
+3,28-04-2024,Juventude,1 - 1,Athletico PR
+4,05-05-2024,Athletico PR,1 - 0,Vasco da Gama
+5,12-05-2024,SE Palmeiras,0 - 2,Athletico PR
+6,02-06-2024,Fortaleza,1 - 0,Athletico PR
+7,13-06-2024,Athletico PR,3 - 1,Criciúma
+8,16-06-2024,Athletico PR,1 - 1,Flamengo RJ
+9,19-06-2024,Botafogo FR,1 - 1,Athletico PR
+10,23-06-2024,Athletico PR,1 - 1,Corinthians
+11,26-06-2024,Cruzeiro,2 - 0,Athletico PR
+12,30-06-2024,Vitória,0 - 1,Athletico PR
+13,04-07-2024,Athletico PR,1 - 2,São Paulo
+14,07-07-2024,Atlético GO,1 - 2,Athletico PR
+15,10-07-2024,Athletico PR,1 - 3,EC Bahia
+16,21-07-2024,Bragantino,1 - 0,Athletico PR
+17,28-07-2024,Cuiabá,1 - 2,Athletico PR
+18,04-08-2024,Athletico PR,0 - 2,Grêmio
+19,11-08-2024,Internacional RS,2 - 2,Athletico PR
+20,18-08-2024,Athletico PR,1 - 2,Juventude
+21,27-08-2024,Vasco da Gama,2 - 1,Athletico PR
+22,01-09-2024,Athletico PR,0 - 2,SE Palmeiras
+23,14-09-2024,Athletico PR,1 - 1,Fortaleza
+24,22-09-2024,Criciúma,0 - 0,Athletico PR
+25,29-09-2024,Flamengo RJ,1 - 0,Athletico PR
+26,05-10-2024,Athletico PR,0 - 1,Botafogo FR
+27,17-10-2024,Corinthians,5 - 2,Athletico PR
+28,22-10-2024,Fluminense FC,1 - 0,Athletico PR
+29,26-10-2024,Athletico PR,3 - 0,Cruzeiro
+30,02-11-2024,Athletico PR,1 - 2,Vitória
+31,10-11-2024,São Paulo,2 - 1,Athletico PR
+32,16-11-2024,Athletico PR,1 - 0,Atlético Mineiro
+33,14-04-2024,Atlético GO,1 - 2,Flamengo RJ
+34,19-04-2024,Botafogo FR,1 - 0,Atlético GO
+35,21-04-2024,Atlético GO,0 - 3,São Paulo
+36,28-04-2024,Internacional RS,1 - 1,Atlético GO
+37,12-05-2024,Atlético GO,0 - 1,Cruzeiro
+38,01-06-2024,Vitória,0 - 2,Atlético GO
+39,05-06-2024,Juventude,1 - 0,Atlético GO
+40,11-06-2024,Atlético GO,2 - 2,Corinthians
+41,16-06-2024,Fluminense FC,1 - 2,Atlético GO
+42,19-06-2024,Atlético GO,1 - 2,Criciúma
+43,22-06-2024,Cuiabá,0 - 0,Atlético GO
+44,26-06-2024,Atlético GO,1 - 1,Grêmio
+45,30-06-2024,Atlético Mineiro,1 - 1,Atlético GO
+46,04-07-2024,Bragantino,3 - 1,Atlético GO
+47,07-07-2024,Atlético GO,1 - 2,Athletico PR
+48,11-07-2024,SE Palmeiras,3 - 1,Atlético GO
+49,17-07-2024,Atlético GO,0 - 1,Vasco da Gama
+50,21-07-2024,Fortaleza,3 - 1,Atlético GO
+51,25-07-2024,Atlético GO,1 - 1,EC Bahia
+52,28-07-2024,Flamengo RJ,2 - 0,Atlético GO
+53,03-08-2024,Atlético GO,1 - 4,Botafogo FR
+54,11-08-2024,São Paulo,1 - 0,Atlético GO
+55,18-08-2024,Atlético GO,1 - 0,Internacional RS
+56,24-08-2024,Atlético GO,2 - 1,Juventude
+57,01-09-2024,Cruzeiro,3 - 1,Atlético GO
+58,14-09-2024,Atlético GO,0 - 2,Vitória
+59,21-09-2024,Corinthians,3 - 0,Atlético GO
+60,29-09-2024,Atlético GO,1 - 0,Fluminense FC
+61,03-10-2024,Criciúma,2 - 0,Atlético GO
+62,18-10-2024,Atlético GO,0 - 0,Cuiabá
+63,26-10-2024,Grêmio,3 - 1,Atlético GO
+64,07-11-2024,Atlético GO,1 - 0,Atlético Mineiro
+65,09-11-2024,Atlético GO,0 - 0,Bragantino
+66,14-04-2024,Corinthians,0 - 0,Atlético Mineiro
+67,17-04-2024,Atlético Mineiro,1 - 1,Criciúma
+68,21-04-2024,Atlético Mineiro,3 - 0,Cruzeiro
+69,27-04-2024,Cuiabá,0 - 3,Atlético Mineiro
+70,04-05-2024,Fluminense FC,2 - 2,Atlético Mineiro
+71,02-06-2024,Atlético Mineiro,1 - 1,EC Bahia
+72,12-06-2024,Bragantino,1 - 2,Atlético Mineiro
+73,17-06-2024,Atlético Mineiro,0 - 4,SE Palmeiras
+74,20-06-2024,Vitória,4 - 2,Atlético Mineiro
+75,23-06-2024,Atlético Mineiro,1 - 1,Fortaleza
+76,27-06-2024,Internacional RS,1 - 2,Atlético Mineiro
+77,30-06-2024,Atlético Mineiro,1 - 1,Atlético GO
+78,04-07-2024,Atlético Mineiro,2 - 4,Flamengo RJ
+79,07-07-2024,Botafogo FR,3 - 0,Atlético Mineiro
+80,12-07-2024,Atlético Mineiro,2 - 1,São Paulo
+81,16-07-2024,Juventude,1 - 1,Atlético Mineiro
+82,21-07-2024,Atlético Mineiro,2 - 0,Vasco da Gama
+83,28-07-2024,Atlético Mineiro,2 - 1,Corinthians
+84,03-08-2024,Criciúma,2 - 1,Atlético Mineiro
+85,11-08-2024,Cruzeiro,0 - 0,Atlético Mineiro
+86,17-08-2024,Atlético Mineiro,1 - 1,Cuiabá
+87,25-08-2024,Atlético Mineiro,0 - 2,Fluminense FC
+88,01-09-2024,Grêmio,2 - 3,Atlético Mineiro
+89,15-09-2024,EC Bahia,3 - 0,Atlético Mineiro
+90,22-09-2024,Atlético Mineiro,3 - 0,Bragantino
+91,28-09-2024,SE Palmeiras,2 - 1,Atlético Mineiro
+92,05-10-2024,Atlético Mineiro,2 - 2,Vitória
+93,09-10-2024,Atlético Mineiro,2 - 1,Grêmio
+94,17-10-2024,Fortaleza,1 - 1,Atlético Mineiro
+95,26-10-2024,Atlético Mineiro,1 - 3,Internacional RS
+96,07-11-2024,Atlético GO,1 - 0,Atlético Mineiro
+97,13-11-2024,Flamengo RJ,0 - 0,Atlético Mineiro
+98,16-11-2024,Athletico PR,1 - 0,Atlético Mineiro
+99,14-04-2024,Cruzeiro,3 - 2,Botafogo FR
+100,19-04-2024,Botafogo FR,1 - 0,Atlético GO
+101,21-04-2024,Botafogo FR,5 - 1,Juventude
+102,28-04-2024,Flamengo RJ,0 - 2,Botafogo FR
+103,05-05-2024,Botafogo FR,1 - 2,EC Bahia
+104,12-05-2024,Fortaleza,1 - 1,Botafogo FR
+105,02-06-2024,Corinthians,0 - 1,Botafogo FR
+106,11-06-2024,Botafogo FR,1 - 0,Fluminense FC
+107,16-06-2024,Grêmio,1 - 2,Botafogo FR
+108,19-06-2024,Botafogo FR,1 - 1,Athletico PR
+109,22-06-2024,Criciúma,2 - 1,Botafogo FR
+110,26-06-2024,Botafogo FR,2 - 1,Bragantino
+111,29-06-2024,Vasco da Gama,1 - 1,Botafogo FR
+112,03-07-2024,Cuiabá,1 - 2,Botafogo FR
+113,07-07-2024,Botafogo FR,3 - 0,Atlético Mineiro
+114,12-07-2024,Vitória,0 - 1,Botafogo FR
+115,18-07-2024,Botafogo FR,1 - 0,SE Palmeiras
+116,20-07-2024,Botafogo FR,1 - 0,Internacional RS
+117,24-07-2024,São Paulo,2 - 2,Botafogo FR
+118,28-07-2024,Botafogo FR,0 - 3,Cruzeiro
+119,03-08-2024,Atlético GO,1 - 4,Botafogo FR
+120,11-08-2024,Juventude,3 - 2,Botafogo FR
+121,18-08-2024,Botafogo FR,4 - 1,Flamengo RJ
+122,25-08-2024,EC Bahia,0 - 0,Botafogo FR
+123,01-09-2024,Botafogo FR,2 - 0,Fortaleza
+124,15-09-2024,Botafogo FR,2 - 1,Corinthians
+125,21-09-2024,Fluminense FC,0 - 1,Botafogo FR
+126,29-09-2024,Botafogo FR,0 - 0,Grêmio
+127,05-10-2024,Athletico PR,0 - 1,Botafogo FR
+128,18-10-2024,Botafogo FR,1 - 1,Criciúma
+129,26-10-2024,Bragantino,0 - 1,Botafogo FR
+130,06-11-2024,Botafogo FR,3 - 0,Vasco da Gama
+131,09-11-2024,Botafogo FR,0 - 0,Cuiabá
+132,14-04-2024,Fluminense FC,2 - 2,Bragantino
+133,17-04-2024,Bragantino,2 - 1,Vasco da Gama
+134,20-04-2024,Bragantino,1 - 0,Corinthians
+135,28-04-2024,Fortaleza,1 - 1,Bragantino
+136,04-05-2024,Bragantino,1 - 1,Flamengo RJ
+137,12-05-2024,EC Bahia,1 - 0,Bragantino
+138,01-06-2024,Grêmio,0 - 2,Bragantino
+139,12-06-2024,Bragantino,1 - 2,Atlético Mineiro
+140,15-06-2024,Bragantino,2 - 1,Juventude
+141,21-06-2024,SE Palmeiras,2 - 1,Bragantino
+142,23-06-2024,Bragantino,2 - 1,Vitória
+143,26-06-2024,Botafogo FR,2 - 1,Bragantino
+144,29-06-2024,Cuiabá,1 - 1,Bragantino
+145,04-07-2024,Bragantino,3 - 1,Atlético GO
+146,06-07-2024,São Paulo,2 - 0,Bragantino
+147,13-07-2024,Cruzeiro,2 - 1,Bragantino
+148,21-07-2024,Bragantino,1 - 0,Athletico PR
+149,28-07-2024,Bragantino,0 - 1,Fluminense FC
+150,03-08-2024,Vasco da Gama,2 - 2,Bragantino
+151,11-08-2024,Corinthians,1 - 1,Bragantino
+152,17-08-2024,Bragantino,1 - 2,Fortaleza
+153,25-08-2024,Flamengo RJ,2 - 1,Bragantino
+154,28-08-2024,Criciúma,1 - 0,Bragantino
+155,01-09-2024,Bragantino,2 - 1,EC Bahia
+156,15-09-2024,Bragantino,2 - 2,Grêmio
+157,22-09-2024,Atlético Mineiro,3 - 0,Bragantino
+158,25-09-2024,Bragantino,2 - 2,Internacional RS
+159,29-09-2024,Juventude,1 - 1,Bragantino
+160,05-10-2024,Bragantino,0 - 0,SE Palmeiras
+161,19-10-2024,Vitória,1 - 0,Bragantino
+162,26-10-2024,Bragantino,0 - 1,Botafogo FR
+163,02-11-2024,Bragantino,0 - 0,Cuiabá
+164,09-11-2024,Atlético GO,0 - 0,Bragantino
+165,14-04-2024,Corinthians,0 - 0,Atlético Mineiro
+166,17-04-2024,Juventude,2 - 0,Corinthians
+167,20-04-2024,Bragantino,1 - 0,Corinthians
+168,28-04-2024,Corinthians,3 - 0,Fluminense FC
+169,05-05-2024,Corinthians,0 - 0,Fortaleza
+170,11-05-2024,Flamengo RJ,2 - 0,Corinthians
+171,02-06-2024,Corinthians,0 - 1,Botafogo FR
+172,11-06-2024,Atlético GO,2 - 2,Corinthians
+173,16-06-2024,Corinthians,2 - 2,São Paulo
+174,20-06-2024,Internacional RS,1 - 0,Corinthians
+175,23-06-2024,Athletico PR,1 - 1,Corinthians
+176,26-06-2024,Corinthians,1 - 1,Cuiabá
+177,01-07-2024,SE Palmeiras,2 - 0,Corinthians
+178,04-07-2024,Corinthians,3 - 2,Vitória
+179,07-07-2024,Cruzeiro,3 - 0,Corinthians
+180,10-07-2024,Vasco da Gama,2 - 0,Corinthians
+181,17-07-2024,Corinthians,2 - 1,Criciúma
+182,21-07-2024,EC Bahia,0 - 1,Corinthians
+183,25-07-2024,Corinthians,2 - 2,Grêmio
+184,28-07-2024,Atlético Mineiro,2 - 1,Corinthians
+185,04-08-2024,Corinthians,1 - 1,Juventude
+186,11-08-2024,Corinthians,1 - 1,Bragantino
+187,18-08-2024,Fluminense FC,0 - 0,Corinthians
+188,25-08-2024,Fortaleza,1 - 0,Corinthians
+189,01-09-2024,Corinthians,2 - 1,Flamengo RJ
+190,15-09-2024,Botafogo FR,2 - 1,Corinthians
+191,21-09-2024,Corinthians,3 - 0,Atlético GO
+192,29-09-2024,São Paulo,3 - 1,Corinthians
+193,05-10-2024,Corinthians,2 - 2,Internacional RS
+194,17-10-2024,Corinthians,5 - 2,Athletico PR
+195,28-10-2024,Cuiabá,0 - 1,Corinthians
+196,04-11-2024,Corinthians,2 - 0,SE Palmeiras
+197,09-11-2024,Vitória,1 - 2,Corinthians
+198,13-04-2024,Criciúma,1 - 1,Juventude
+199,17-04-2024,Atlético Mineiro,1 - 1,Criciúma
+200,27-04-2024,Vasco da Gama,0 - 4,Criciúma
+201,02-06-2024,Criciúma,1 - 2,SE Palmeiras
+202,09-06-2024,Criciúma,2 - 5,Cuiabá
+203,13-06-2024,Athletico PR,3 - 1,Criciúma
+204,16-06-2024,Criciúma,2 - 2,EC Bahia
+205,19-06-2024,Atlético GO,1 - 2,Criciúma
+206,22-06-2024,Criciúma,2 - 1,Botafogo FR
+207,27-06-2024,São Paulo,2 - 1,Criciúma
+208,30-06-2024,Criciúma,1 - 1,Internacional RS
+209,03-07-2024,Criciúma,1 - 0,Cruzeiro
+210,07-07-2024,Vitória,2 - 1,Criciúma
+211,11-07-2024,Criciúma,1 - 1,Fluminense FC
+212,17-07-2024,Corinthians,2 - 1,Criciúma
+213,20-07-2024,Flamengo RJ,2 - 1,Criciúma
+214,24-07-2024,Criciúma,1 - 1,Fortaleza
+215,27-07-2024,Juventude,1 - 2,Criciúma
+216,03-08-2024,Criciúma,2 - 1,Atlético Mineiro
+217,10-08-2024,Fortaleza,1 - 0,Criciúma
+218,18-08-2024,Criciúma,2 - 2,Vasco da Gama
+219,25-08-2024,Criciúma,0 - 1,Grêmio
+220,28-08-2024,Criciúma,1 - 0,Bragantino
+221,31-08-2024,Cuiabá,2 - 1,Criciúma
+222,15-09-2024,SE Palmeiras,5 - 0,Criciúma
+223,22-09-2024,Criciúma,0 - 0,Athletico PR
+224,25-09-2024,Grêmio,1 - 2,Criciúma
+225,29-09-2024,EC Bahia,1 - 0,Criciúma
+226,03-10-2024,Criciúma,2 - 0,Atlético GO
+227,18-10-2024,Botafogo FR,1 - 1,Criciúma
+228,27-10-2024,Criciúma,1 - 1,São Paulo
+229,06-11-2024,Internacional RS,2 - 0,Criciúma
+230,09-11-2024,Cruzeiro,2 - 1,Criciúma
+231,14-04-2024,Cruzeiro,3 - 2,Botafogo FR
+232,17-04-2024,Fortaleza,1 - 1,Cruzeiro
+233,21-04-2024,Atlético Mineiro,3 - 0,Cruzeiro
+234,28-04-2024,Cruzeiro,3 - 1,Vitória
+235,12-05-2024,Atlético GO,0 - 1,Cruzeiro
+236,02-06-2024,São Paulo,2 - 0,Cruzeiro
+237,13-06-2024,Cruzeiro,2 - 1,Cuiabá
+238,16-06-2024,Vasco da Gama,0 - 0,Cruzeiro
+239,20-06-2024,Cruzeiro,2 - 0,Fluminense FC
+240,23-06-2024,EC Bahia,4 - 1,Cruzeiro
+241,26-06-2024,Cruzeiro,2 - 0,Athletico PR
+242,30-06-2024,Flamengo RJ,2 - 1,Cruzeiro
+243,03-07-2024,Criciúma,1 - 0,Cruzeiro
+244,07-07-2024,Cruzeiro,3 - 0,Corinthians
+245,10-07-2024,Grêmio,0 - 2,Cruzeiro
+246,13-07-2024,Cruzeiro,2 - 1,Bragantino
+247,21-07-2024,SE Palmeiras,2 - 0,Cruzeiro
+248,24-07-2024,Cruzeiro,2 - 0,Juventude
+249,28-07-2024,Botafogo FR,0 - 3,Cruzeiro
+250,06-08-2024,Cruzeiro,1 - 2,Fortaleza
+251,11-08-2024,Cruzeiro,0 - 0,Atlético Mineiro
+252,19-08-2024,Vitória,2 - 2,Cruzeiro
+253,25-08-2024,Internacional RS,1 - 0,Cruzeiro
+254,28-08-2024,Cruzeiro,0 - 0,Internacional RS
+255,01-09-2024,Cruzeiro,3 - 1,Atlético GO
+256,15-09-2024,Cruzeiro,0 - 1,São Paulo
+257,22-09-2024,Cuiabá,0 - 0,Cruzeiro
+258,29-09-2024,Cruzeiro,1 - 1,Vasco da Gama
+259,04-10-2024,Fluminense FC,1 - 0,Cruzeiro
+260,19-10-2024,Cruzeiro,1 - 1,EC Bahia
+261,26-10-2024,Athletico PR,3 - 0,Cruzeiro
+262,07-11-2024,Cruzeiro,0 - 1,Flamengo RJ
+263,09-11-2024,Cruzeiro,2 - 1,Criciúma
+264,14-04-2024,Athletico PR,4 - 0,Cuiabá
+265,20-04-2024,Grêmio,1 - 0,Cuiabá
+266,27-04-2024,Cuiabá,0 - 3,Atlético Mineiro
+267,05-05-2024,Cuiabá,0 - 2,SE Palmeiras
+268,01-06-2024,Cuiabá,0 - 1,Internacional RS
+269,05-06-2024,Cuiabá,0 - 0,Vitória
+270,09-06-2024,Criciúma,2 - 5,Cuiabá
+271,13-06-2024,Cruzeiro,2 - 1,Cuiabá
+272,16-06-2024,Cuiabá,5 - 0,Fortaleza
+273,19-06-2024,São Paulo,0 - 1,Cuiabá
+274,22-06-2024,Cuiabá,0 - 0,Atlético GO
+275,26-06-2024,Corinthians,1 - 1,Cuiabá
+276,29-06-2024,Cuiabá,1 - 1,Bragantino
+277,03-07-2024,Cuiabá,1 - 2,Botafogo FR
+278,06-07-2024,Flamengo RJ,1 - 1,Cuiabá
+279,13-07-2024,EC Bahia,1 - 2,Cuiabá
+280,21-07-2024,Cuiabá,0 - 1,Fluminense FC
+281,28-07-2024,Cuiabá,1 - 2,Athletico PR
+282,03-08-2024,Vitória,1 - 0,Cuiabá
+283,10-08-2024,Cuiabá,1 - 3,Grêmio
+284,17-08-2024,Atlético Mineiro,1 - 1,Cuiabá
+285,24-08-2024,SE Palmeiras,5 - 0,Cuiabá
+286,31-08-2024,Cuiabá,2 - 1,Criciúma
+287,05-09-2024,Cuiabá,0 - 0,Juventude
+288,16-09-2024,Internacional RS,3 - 0,Cuiabá
+289,22-09-2024,Cuiabá,0 - 0,Cruzeiro
+290,29-09-2024,Fortaleza,1 - 0,Cuiabá
+291,05-10-2024,Cuiabá,2 - 0,São Paulo
+292,18-10-2024,Atlético GO,0 - 0,Cuiabá
+293,24-10-2024,Vasco da Gama,1 - 0,Cuiabá
+294,28-10-2024,Cuiabá,0 - 1,Corinthians
+295,02-11-2024,Bragantino,0 - 0,Cuiabá
+296,09-11-2024,Botafogo FR,0 - 0,Cuiabá
+297,13-04-2024,Internacional RS,2 - 1,EC Bahia
+298,17-04-2024,EC Bahia,2 - 1,Fluminense FC
+299,21-04-2024,Vitória,2 - 2,EC Bahia
+300,28-04-2024,EC Bahia,1 - 0,Grêmio
+301,05-05-2024,Botafogo FR,1 - 2,EC Bahia
+302,12-05-2024,EC Bahia,1 - 0,Bragantino
+303,02-06-2024,Atlético Mineiro,1 - 1,EC Bahia
+304,14-06-2024,EC Bahia,1 - 0,Fortaleza
+305,16-06-2024,Criciúma,2 - 2,EC Bahia
+306,20-06-2024,Flamengo RJ,2 - 1,EC Bahia
+307,23-06-2024,EC Bahia,4 - 1,Cruzeiro
+308,27-06-2024,EC Bahia,2 - 1,Vasco da Gama
+309,30-06-2024,São Paulo,3 - 1,EC Bahia
+310,04-07-2024,EC Bahia,2 - 0,Juventude
+311,07-07-2024,SE Palmeiras,2 - 0,EC Bahia
+312,10-07-2024,Athletico PR,1 - 3,EC Bahia
+313,13-07-2024,EC Bahia,1 - 2,Cuiabá
+314,21-07-2024,EC Bahia,0 - 1,Corinthians
+315,25-07-2024,Atlético GO,1 - 1,EC Bahia
+316,27-07-2024,EC Bahia,1 - 1,Internacional RS
+317,04-08-2024,Fluminense FC,1 - 0,EC Bahia
+318,11-08-2024,EC Bahia,2 - 0,Vitória
+319,17-08-2024,Grêmio,0 - 2,EC Bahia
+320,25-08-2024,EC Bahia,0 - 0,Botafogo FR
+321,01-09-2024,Bragantino,2 - 1,EC Bahia
+322,15-09-2024,EC Bahia,3 - 0,Atlético Mineiro
+323,22-09-2024,Fortaleza,4 - 1,EC Bahia
+324,29-09-2024,EC Bahia,1 - 0,Criciúma
+325,05-10-2024,EC Bahia,0 - 2,Flamengo RJ
+326,19-10-2024,Cruzeiro,1 - 1,EC Bahia
+327,29-10-2024,Vasco da Gama,3 - 2,EC Bahia
+328,06-11-2024,EC Bahia,0 - 3,São Paulo
+329,09-11-2024,Juventude,2 - 1,EC Bahia
+330,14-04-2024,Atlético GO,1 - 2,Flamengo RJ
+331,18-04-2024,Flamengo RJ,2 - 1,São Paulo
+332,21-04-2024,SE Palmeiras,0 - 0,Flamengo RJ
+333,28-04-2024,Flamengo RJ,0 - 2,Botafogo FR
+334,04-05-2024,Bragantino,1 - 1,Flamengo RJ
+335,11-05-2024,Flamengo RJ,2 - 0,Corinthians
+336,02-06-2024,Vasco da Gama,1 - 6,Flamengo RJ
+337,13-06-2024,Flamengo RJ,2 - 1,Grêmio
+338,16-06-2024,Athletico PR,1 - 1,Flamengo RJ
+339,20-06-2024,Flamengo RJ,2 - 1,EC Bahia
+340,23-06-2024,Fluminense FC,0 - 1,Flamengo RJ
+341,26-06-2024,Juventude,2 - 1,Flamengo RJ
+342,30-06-2024,Flamengo RJ,2 - 1,Cruzeiro
+343,04-07-2024,Atlético Mineiro,2 - 4,Flamengo RJ
+344,06-07-2024,Flamengo RJ,1 - 1,Cuiabá
+345,11-07-2024,Flamengo RJ,1 - 2,Fortaleza
+346,20-07-2024,Flamengo RJ,2 - 1,Criciúma
+347,24-07-2024,Vitória,1 - 2,Flamengo RJ
+348,28-07-2024,Flamengo RJ,2 - 0,Atlético GO
+349,04-08-2024,São Paulo,1 - 0,Flamengo RJ
+350,11-08-2024,Flamengo RJ,1 - 1,SE Palmeiras
+351,18-08-2024,Botafogo FR,4 - 1,Flamengo RJ
+352,25-08-2024,Flamengo RJ,2 - 1,Bragantino
+353,01-09-2024,Corinthians,2 - 1,Flamengo RJ
+354,15-09-2024,Flamengo RJ,1 - 1,Vasco da Gama
+355,22-09-2024,Grêmio,3 - 2,Flamengo RJ
+356,29-09-2024,Flamengo RJ,1 - 0,Athletico PR
+357,05-10-2024,EC Bahia,0 - 2,Flamengo RJ
+358,17-10-2024,Flamengo RJ,0 - 2,Fluminense FC
+359,26-10-2024,Flamengo RJ,4 - 2,Juventude
+360,30-10-2024,Internacional RS,1 - 1,Flamengo RJ
+361,07-11-2024,Cruzeiro,0 - 1,Flamengo RJ
+362,13-11-2024,Flamengo RJ,0 - 0,Atlético Mineiro
+363,14-04-2024,Fluminense FC,2 - 2,Bragantino
+364,17-04-2024,EC Bahia,2 - 1,Fluminense FC
+365,20-04-2024,Fluminense FC,2 - 1,Vasco da Gama
+366,28-04-2024,Corinthians,3 - 0,Fluminense FC
+367,04-05-2024,Fluminense FC,2 - 2,Atlético Mineiro
+368,13-05-2024,São Paulo,2 - 1,Fluminense FC
+369,01-06-2024,Fluminense FC,1 - 1,Juventude
+370,11-06-2024,Botafogo FR,1 - 0,Fluminense FC
+371,16-06-2024,Fluminense FC,1 - 2,Atlético GO
+372,20-06-2024,Cruzeiro,2 - 0,Fluminense FC
+373,23-06-2024,Fluminense FC,0 - 1,Flamengo RJ
+374,27-06-2024,Fluminense FC,0 - 1,Vitória
+375,30-06-2024,Grêmio,1 - 0,Fluminense FC
+376,04-07-2024,Fluminense FC,1 - 1,Internacional RS
+377,07-07-2024,Fortaleza,1 - 0,Fluminense FC
+378,11-07-2024,Criciúma,1 - 1,Fluminense FC
+379,21-07-2024,Cuiabá,0 - 1,Fluminense FC
+380,25-07-2024,Fluminense FC,1 - 0,SE Palmeiras
+381,28-07-2024,Bragantino,0 - 1,Fluminense FC
+382,04-08-2024,Fluminense FC,1 - 0,EC Bahia
+383,11-08-2024,Vasco da Gama,2 - 0,Fluminense FC
+384,18-08-2024,Fluminense FC,0 - 0,Corinthians
+385,25-08-2024,Atlético Mineiro,0 - 2,Fluminense FC
+386,01-09-2024,Fluminense FC,2 - 0,São Paulo
+387,15-09-2024,Juventude,2 - 1,Fluminense FC
+388,21-09-2024,Fluminense FC,0 - 1,Botafogo FR
+389,29-09-2024,Atlético GO,1 - 0,Fluminense FC
+390,04-10-2024,Fluminense FC,1 - 0,Cruzeiro
+391,17-10-2024,Flamengo RJ,0 - 2,Fluminense FC
+392,22-10-2024,Fluminense FC,1 - 0,Athletico PR
+393,26-10-2024,Vitória,2 - 1,Fluminense FC
+394,02-11-2024,Fluminense FC,2 - 2,Grêmio
+395,08-11-2024,Internacional RS,2 - 0,Fluminense FC
+396,14-04-2024,São Paulo,1 - 2,Fortaleza
+397,17-04-2024,Fortaleza,1 - 1,Cruzeiro
+398,28-04-2024,Fortaleza,1 - 1,Bragantino
+399,05-05-2024,Corinthians,0 - 0,Fortaleza
+400,12-05-2024,Fortaleza,1 - 1,Botafogo FR
+401,02-06-2024,Fortaleza,1 - 0,Athletico PR
+402,14-06-2024,EC Bahia,1 - 0,Fortaleza
+403,16-06-2024,Cuiabá,5 - 0,Fortaleza
+404,19-06-2024,Fortaleza,1 - 0,Grêmio
+405,23-06-2024,Atlético Mineiro,1 - 1,Fortaleza
+406,27-06-2024,Fortaleza,3 - 0,SE Palmeiras
+407,30-06-2024,Fortaleza,2 - 1,Juventude
+408,03-07-2024,Vasco da Gama,2 - 0,Fortaleza
+409,07-07-2024,Fortaleza,1 - 0,Fluminense FC
+410,11-07-2024,Flamengo RJ,1 - 2,Fortaleza
+411,18-07-2024,Fortaleza,3 - 1,Vitória
+412,21-07-2024,Fortaleza,3 - 1,Atlético GO
+413,24-07-2024,Criciúma,1 - 1,Fortaleza
+414,28-07-2024,Fortaleza,1 - 0,São Paulo
+415,06-08-2024,Cruzeiro,1 - 2,Fortaleza
+416,10-08-2024,Fortaleza,1 - 0,Criciúma
+417,17-08-2024,Bragantino,1 - 2,Fortaleza
+418,25-08-2024,Fortaleza,1 - 0,Corinthians
+419,01-09-2024,Botafogo FR,2 - 0,Fortaleza
+420,11-09-2024,Internacional RS,2 - 1,Fortaleza
+421,14-09-2024,Athletico PR,1 - 1,Fortaleza
+422,22-09-2024,Fortaleza,4 - 1,EC Bahia
+423,29-09-2024,Fortaleza,1 - 0,Cuiabá
+424,05-10-2024,Grêmio,3 - 1,Fortaleza
+425,17-10-2024,Fortaleza,1 - 1,Atlético Mineiro
+426,26-10-2024,SE Palmeiras,2 - 2,Fortaleza
+427,02-11-2024,Juventude,0 - 3,Fortaleza
+428,09-11-2024,Fortaleza,3 - 0,Vasco da Gama
+429,14-04-2024,Vasco da Gama,2 - 1,Grêmio
+430,17-04-2024,Grêmio,2 - 0,Athletico PR
+431,20-04-2024,Grêmio,1 - 0,Cuiabá
+432,28-04-2024,EC Bahia,1 - 0,Grêmio
+433,01-06-2024,Grêmio,0 - 2,Bragantino
+434,13-06-2024,Flamengo RJ,2 - 1,Grêmio
+435,16-06-2024,Grêmio,1 - 2,Botafogo FR
+436,19-06-2024,Fortaleza,1 - 0,Grêmio
+437,22-06-2024,Grêmio,0 - 1,Internacional RS
+438,26-06-2024,Atlético GO,1 - 1,Grêmio
+439,30-06-2024,Grêmio,1 - 0,Fluminense FC
+440,04-07-2024,Grêmio,2 - 2,SE Palmeiras
+441,07-07-2024,Juventude,3 - 0,Grêmio
+442,10-07-2024,Grêmio,0 - 2,Cruzeiro
+443,17-07-2024,São Paulo,1 - 0,Grêmio
+444,21-07-2024,Grêmio,2 - 0,Vitória
+445,25-07-2024,Corinthians,2 - 2,Grêmio
+446,28-07-2024,Grêmio,1 - 0,Vasco da Gama
+447,04-08-2024,Athletico PR,0 - 2,Grêmio
+448,10-08-2024,Cuiabá,1 - 3,Grêmio
+449,17-08-2024,Grêmio,0 - 2,EC Bahia
+450,25-08-2024,Criciúma,0 - 1,Grêmio
+451,01-09-2024,Grêmio,2 - 3,Atlético Mineiro
+452,15-09-2024,Bragantino,2 - 2,Grêmio
+453,22-09-2024,Grêmio,3 - 2,Flamengo RJ
+454,25-09-2024,Grêmio,1 - 2,Criciúma
+455,29-09-2024,Botafogo FR,0 - 0,Grêmio
+456,05-10-2024,Grêmio,3 - 1,Fortaleza
+457,09-10-2024,Atlético Mineiro,2 - 1,Grêmio
+458,19-10-2024,Internacional RS,1 - 0,Grêmio
+459,26-10-2024,Grêmio,3 - 1,Atlético GO
+460,02-11-2024,Fluminense FC,2 - 2,Grêmio
+461,09-11-2024,SE Palmeiras,1 - 0,Grêmio
+462,13-04-2024,Internacional RS,2 - 1,EC Bahia
+463,17-04-2024,SE Palmeiras,0 - 1,Internacional RS
+464,21-04-2024,Athletico PR,1 - 0,Internacional RS
+465,28-04-2024,Internacional RS,1 - 1,Atlético GO
+466,01-06-2024,Cuiabá,0 - 1,Internacional RS
+467,13-06-2024,Internacional RS,0 - 0,São Paulo
+468,16-06-2024,Vitória,2 - 1,Internacional RS
+469,20-06-2024,Internacional RS,1 - 0,Corinthians
+470,22-06-2024,Grêmio,0 - 1,Internacional RS
+471,27-06-2024,Internacional RS,1 - 2,Atlético Mineiro
+472,30-06-2024,Criciúma,1 - 1,Internacional RS
+473,04-07-2024,Fluminense FC,1 - 1,Internacional RS
+474,07-07-2024,Internacional RS,1 - 2,Vasco da Gama
+475,20-07-2024,Botafogo FR,1 - 0,Internacional RS
+476,27-07-2024,EC Bahia,1 - 1,Internacional RS
+477,04-08-2024,Internacional RS,1 - 1,SE Palmeiras
+478,11-08-2024,Internacional RS,2 - 2,Athletico PR
+479,14-08-2024,Internacional RS,2 - 1,Juventude
+480,18-08-2024,Atlético GO,1 - 0,Internacional RS
+481,25-08-2024,Internacional RS,1 - 0,Cruzeiro
+482,28-08-2024,Cruzeiro,0 - 0,Internacional RS
+483,01-09-2024,Juventude,1 - 3,Internacional RS
+484,11-09-2024,Internacional RS,2 - 1,Fortaleza
+485,16-09-2024,Internacional RS,3 - 0,Cuiabá
+486,22-09-2024,São Paulo,1 - 3,Internacional RS
+487,25-09-2024,Bragantino,2 - 2,Internacional RS
+488,29-09-2024,Internacional RS,3 - 1,Vitória
+489,05-10-2024,Corinthians,2 - 2,Internacional RS
+490,19-10-2024,Internacional RS,1 - 0,Grêmio
+491,26-10-2024,Atlético Mineiro,1 - 3,Internacional RS
+492,30-10-2024,Internacional RS,1 - 1,Flamengo RJ
+493,06-11-2024,Internacional RS,2 - 0,Criciúma
+494,08-11-2024,Internacional RS,2 - 0,Fluminense FC
+495,13-04-2024,Criciúma,1 - 1,Juventude
+496,17-04-2024,Juventude,2 - 0,Corinthians
+497,21-04-2024,Botafogo FR,5 - 1,Juventude
+498,28-04-2024,Juventude,1 - 1,Athletico PR
+499,01-06-2024,Fluminense FC,1 - 1,Juventude
+500,05-06-2024,Juventude,1 - 0,Atlético GO
+501,11-06-2024,Juventude,1 - 1,Vitória
+502,15-06-2024,Bragantino,2 - 1,Juventude
+503,19-06-2024,Juventude,2 - 0,Vasco da Gama
+504,23-06-2024,SE Palmeiras,3 - 1,Juventude
+505,26-06-2024,Juventude,2 - 1,Flamengo RJ
+506,30-06-2024,Fortaleza,2 - 1,Juventude
+507,04-07-2024,EC Bahia,2 - 0,Juventude
+508,07-07-2024,Juventude,3 - 0,Grêmio
+509,16-07-2024,Juventude,1 - 1,Atlético Mineiro
+510,21-07-2024,Juventude,0 - 0,São Paulo
+511,24-07-2024,Cruzeiro,2 - 0,Juventude
+512,27-07-2024,Juventude,1 - 2,Criciúma
+513,04-08-2024,Corinthians,1 - 1,Juventude
+514,11-08-2024,Juventude,3 - 2,Botafogo FR
+515,14-08-2024,Internacional RS,2 - 1,Juventude
+516,18-08-2024,Athletico PR,1 - 2,Juventude
+517,24-08-2024,Atlético GO,2 - 1,Juventude
+518,01-09-2024,Juventude,1 - 3,Internacional RS
+519,05-09-2024,Cuiabá,0 - 0,Juventude
+520,15-09-2024,Juventude,2 - 1,Fluminense FC
+521,21-09-2024,Vitória,1 - 0,Juventude
+522,29-09-2024,Juventude,1 - 1,Bragantino
+523,06-10-2024,Vasco da Gama,1 - 1,Juventude
+524,20-10-2024,Juventude,3 - 5,SE Palmeiras
+525,26-10-2024,Flamengo RJ,4 - 2,Juventude
+526,02-11-2024,Juventude,0 - 3,Fortaleza
+527,09-11-2024,Juventude,2 - 1,EC Bahia
+528,14-04-2024,Vitória,0 - 1,SE Palmeiras
+529,17-04-2024,SE Palmeiras,0 - 1,Internacional RS
+530,21-04-2024,SE Palmeiras,0 - 0,Flamengo RJ
+531,29-04-2024,São Paulo,0 - 0,SE Palmeiras
+532,05-05-2024,Cuiabá,0 - 2,SE Palmeiras
+533,12-05-2024,SE Palmeiras,0 - 2,Athletico PR
+534,02-06-2024,Criciúma,1 - 2,SE Palmeiras
+535,14-06-2024,SE Palmeiras,2 - 0,Vasco da Gama
+536,17-06-2024,Atlético Mineiro,0 - 4,SE Palmeiras
+537,21-06-2024,SE Palmeiras,2 - 1,Bragantino
+538,23-06-2024,SE Palmeiras,3 - 1,Juventude
+539,27-06-2024,Fortaleza,3 - 0,SE Palmeiras
+540,01-07-2024,SE Palmeiras,2 - 0,Corinthians
+541,04-07-2024,Grêmio,2 - 2,SE Palmeiras
+542,07-07-2024,SE Palmeiras,2 - 0,EC Bahia
+543,11-07-2024,SE Palmeiras,3 - 1,Atlético GO
+544,18-07-2024,Botafogo FR,1 - 0,SE Palmeiras
+545,21-07-2024,SE Palmeiras,2 - 0,Cruzeiro
+546,25-07-2024,Fluminense FC,1 - 0,SE Palmeiras
+547,27-07-2024,SE Palmeiras,0 - 2,Vitória
+548,04-08-2024,Internacional RS,1 - 1,SE Palmeiras
+549,11-08-2024,Flamengo RJ,1 - 1,SE Palmeiras
+550,18-08-2024,SE Palmeiras,2 - 1,São Paulo
+551,24-08-2024,SE Palmeiras,5 - 0,Cuiabá
+552,01-09-2024,Athletico PR,0 - 2,SE Palmeiras
+553,15-09-2024,SE Palmeiras,5 - 0,Criciúma
+554,22-09-2024,Vasco da Gama,0 - 1,SE Palmeiras
+555,28-09-2024,SE Palmeiras,2 - 1,Atlético Mineiro
+556,05-10-2024,Bragantino,0 - 0,SE Palmeiras
+557,20-10-2024,Juventude,3 - 5,SE Palmeiras
+558,26-10-2024,SE Palmeiras,2 - 2,Fortaleza
+559,04-11-2024,Corinthians,2 - 0,SE Palmeiras
+560,09-11-2024,SE Palmeiras,1 - 0,Grêmio
+561,14-04-2024,São Paulo,1 - 2,Fortaleza
+562,18-04-2024,Flamengo RJ,2 - 1,São Paulo
+563,21-04-2024,Atlético GO,0 - 3,São Paulo
+564,29-04-2024,São Paulo,0 - 0,SE Palmeiras
+565,05-05-2024,Vitória,1 - 3,São Paulo
+566,13-05-2024,São Paulo,2 - 1,Fluminense FC
+567,02-06-2024,São Paulo,2 - 0,Cruzeiro
+568,13-06-2024,Internacional RS,0 - 0,São Paulo
+569,16-06-2024,Corinthians,2 - 2,São Paulo
+570,19-06-2024,São Paulo,0 - 1,Cuiabá
+571,23-06-2024,Vasco da Gama,4 - 1,São Paulo
+572,27-06-2024,São Paulo,2 - 1,Criciúma
+573,30-06-2024,São Paulo,3 - 1,EC Bahia
+574,04-07-2024,Athletico PR,1 - 2,São Paulo
+575,06-07-2024,São Paulo,2 - 0,Bragantino
+576,12-07-2024,Atlético Mineiro,2 - 1,São Paulo
+577,17-07-2024,São Paulo,1 - 0,Grêmio
+578,21-07-2024,Juventude,0 - 0,São Paulo
+579,24-07-2024,São Paulo,2 - 2,Botafogo FR
+580,28-07-2024,Fortaleza,1 - 0,São Paulo
+581,04-08-2024,São Paulo,1 - 0,Flamengo RJ
+582,11-08-2024,São Paulo,1 - 0,Atlético GO
+583,18-08-2024,SE Palmeiras,2 - 1,São Paulo
+584,25-08-2024,São Paulo,2 - 1,Vitória
+585,01-09-2024,Fluminense FC,2 - 0,São Paulo
+586,15-09-2024,Cruzeiro,0 - 1,São Paulo
+587,22-09-2024,São Paulo,1 - 3,Internacional RS
+588,29-09-2024,São Paulo,3 - 1,Corinthians
+589,05-10-2024,Cuiabá,2 - 0,São Paulo
+590,17-10-2024,São Paulo,3 - 0,Vasco da Gama
+591,27-10-2024,Criciúma,1 - 1,São Paulo
+592,06-11-2024,EC Bahia,0 - 3,São Paulo
+593,10-11-2024,São Paulo,2 - 1,Athletico PR
+594,14-04-2024,Vasco da Gama,2 - 1,Grêmio
+595,17-04-2024,Bragantino,2 - 1,Vasco da Gama
+596,20-04-2024,Fluminense FC,2 - 1,Vasco da Gama
+597,27-04-2024,Vasco da Gama,0 - 4,Criciúma
+598,05-05-2024,Athletico PR,1 - 0,Vasco da Gama
+599,12-05-2024,Vasco da Gama,2 - 1,Vitória
+600,02-06-2024,Vasco da Gama,1 - 6,Flamengo RJ
+601,14-06-2024,SE Palmeiras,2 - 0,Vasco da Gama
+602,16-06-2024,Vasco da Gama,0 - 0,Cruzeiro
+603,19-06-2024,Juventude,2 - 0,Vasco da Gama
+604,23-06-2024,Vasco da Gama,4 - 1,São Paulo
+605,27-06-2024,EC Bahia,2 - 1,Vasco da Gama
+606,29-06-2024,Vasco da Gama,1 - 1,Botafogo FR
+607,03-07-2024,Vasco da Gama,2 - 0,Fortaleza
+608,07-07-2024,Internacional RS,1 - 2,Vasco da Gama
+609,10-07-2024,Vasco da Gama,2 - 0,Corinthians
+610,17-07-2024,Atlético GO,0 - 1,Vasco da Gama
+611,21-07-2024,Atlético Mineiro,2 - 0,Vasco da Gama
+612,28-07-2024,Grêmio,1 - 0,Vasco da Gama
+613,03-08-2024,Vasco da Gama,2 - 2,Bragantino
+614,11-08-2024,Vasco da Gama,2 - 0,Fluminense FC
+615,18-08-2024,Criciúma,2 - 2,Vasco da Gama
+616,27-08-2024,Vasco da Gama,2 - 1,Athletico PR
+617,01-09-2024,Vitória,0 - 1,Vasco da Gama
+618,15-09-2024,Flamengo RJ,1 - 1,Vasco da Gama
+619,22-09-2024,Vasco da Gama,0 - 1,SE Palmeiras
+620,29-09-2024,Cruzeiro,1 - 1,Vasco da Gama
+621,06-10-2024,Vasco da Gama,1 - 1,Juventude
+622,17-10-2024,São Paulo,3 - 0,Vasco da Gama
+623,24-10-2024,Vasco da Gama,1 - 0,Cuiabá
+624,29-10-2024,Vasco da Gama,3 - 2,EC Bahia
+625,06-11-2024,Botafogo FR,3 - 0,Vasco da Gama
+626,09-11-2024,Fortaleza,3 - 0,Vasco da Gama
+627,14-04-2024,Vitória,0 - 1,SE Palmeiras
+628,21-04-2024,Vitória,2 - 2,EC Bahia
+629,28-04-2024,Cruzeiro,3 - 1,Vitória
+630,05-05-2024,Vitória,1 - 3,São Paulo
+631,12-05-2024,Vasco da Gama,2 - 1,Vitória
+632,01-06-2024,Vitória,0 - 2,Atlético GO
+633,05-06-2024,Cuiabá,0 - 0,Vitória
+634,11-06-2024,Juventude,1 - 1,Vitória
+635,16-06-2024,Vitória,2 - 1,Internacional RS
+636,20-06-2024,Vitória,4 - 2,Atlético Mineiro
+637,23-06-2024,Bragantino,2 - 1,Vitória
+638,27-06-2024,Fluminense FC,0 - 1,Vitória
+639,30-06-2024,Vitória,0 - 1,Athletico PR
+640,04-07-2024,Corinthians,3 - 2,Vitória
+641,07-07-2024,Vitória,2 - 1,Criciúma
+642,12-07-2024,Vitória,0 - 1,Botafogo FR
+643,18-07-2024,Fortaleza,3 - 1,Vitória
+644,21-07-2024,Grêmio,2 - 0,Vitória
+645,24-07-2024,Vitória,1 - 2,Flamengo RJ
+646,27-07-2024,SE Palmeiras,0 - 2,Vitória
+647,03-08-2024,Vitória,1 - 0,Cuiabá
+648,11-08-2024,EC Bahia,2 - 0,Vitória
+649,19-08-2024,Vitória,2 - 2,Cruzeiro
+650,25-08-2024,São Paulo,2 - 1,Vitória
+651,01-09-2024,Vitória,0 - 1,Vasco da Gama
+652,14-09-2024,Atlético GO,0 - 2,Vitória
+653,21-09-2024,Vitória,1 - 0,Juventude
+654,29-09-2024,Internacional RS,3 - 1,Vitória
+655,05-10-2024,Atlético Mineiro,2 - 2,Vitória
+656,19-10-2024,Vitória,1 - 0,Bragantino
+657,26-10-2024,Vitória,2 - 1,Fluminense FC
+658,02-11-2024,Athletico PR,1 - 2,Vitória
+659,09-11-2024,Vitória,1 - 2,Corinthians
